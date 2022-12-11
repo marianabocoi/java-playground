@@ -1,8 +1,6 @@
 # Java playground
 
-[]()
 [![Start Java Playground GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/marianabocoi/java-playground)
-
 
 This project is meant as a base for people to play around with Java without having to setup their environment. [Start Java Playground GitPod](https://gitpod.io/#https://github.com/marianabocoi/java-playground)
 
